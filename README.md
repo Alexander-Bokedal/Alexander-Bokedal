@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexander-Bokedal
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Front end development
+- 🌱 Aspiring fullstack developer
 - 📫 How to reach me - alexander.bokedal@gmail.com
 
 <!---
